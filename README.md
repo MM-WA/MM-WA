@@ -39,5 +39,5 @@ Let’s connect and build something extraordinary! 🤝
 - ![JWT](https://img.shields.io/badge/JWT-%23F10C5B)
 
 #### Infrastructure
-- ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-black)
-- ![Vercel](https://img.shields.io/badge/Git/Vercel-black)
+- ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-%235C5C5C)
+- ![Vercel](https://img.shields.io/badge/Git/Vercel-%235C5C5C)
