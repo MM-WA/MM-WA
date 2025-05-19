@@ -15,7 +15,7 @@ Let’s connect and build something extraordinary! 🤝
 
 ### Tech Stacks
 #### Frontend  
-- ![Reactjs](https://img.shields.io/badge/Reactjs-%2308D9FF), Nextjs
+- ![Reactjs](https://img.shields.io/badge/Reactjs-%2340E3FF) Nextjs
 - Bootstrap, Tailwind CSS
 - Redux, Redux Toolkit, Redux Saga
 - UI component liberaries (Shdcn, Ant Design etc.)  
