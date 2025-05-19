@@ -6,6 +6,6 @@ I am driven by the desire to create impactful solutions and deliver satisfaction
 
 Let’s connect and build something extraordinary! 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
-[![LinkedIn](https://img.shields.io/badge/Whats%App-parrot)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
+[(https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
+[(https://img.shields.io/badge/Whats%App-green)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
 
