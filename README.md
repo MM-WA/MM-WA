@@ -8,4 +8,5 @@ Let’s connect and build something extraordinary! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
 [![WhatsApp](https://img.shields.io/badge/Whats_App-%230CC143)](https://wa.me/923201051955)
+[![Gmail](https://img.shields.io/badge/Gmail-red)](https://mail.google.com/mail/?view=cm&to=waleedasif900@gmail.com)
 
