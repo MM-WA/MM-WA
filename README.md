@@ -11,4 +11,5 @@ Let’s connect and build something extraordinary! 🤝
 [![Gmail](https://img.shields.io/badge/Gmail-red)](https://mail.google.com/mail/?view=cm&to=waleedasif900@gmail.com)
 
 ## Visit Portfolio  
-[![Waleed](https://img.shields.io/badge/Waleed-%232F2F2F)](https://waleed-jade.vercel.app/)
+
+[![Waleed](https://img.shields.io/badge/Waleed-%E3DFDC)](https://waleed-jade.vercel.app/)
