@@ -1,4 +1,4 @@
-### Assalam-O-Alikum! 🙂
+## Assalam-O-Alikum! 🙂
 
 I am a Software Engineer and a goal-driven developer. My experience of working with a startup for almost one year has taught me that despite the ever-changing dynamics of business drivers, the only impossible goal is the one we abandon too soon. With faith in The Lord of the Worlds and a commitment to continuous learning, I strive to be among the top 1% in my field.  
 
@@ -10,5 +10,17 @@ Let’s connect and build something extraordinary! 🤝
 [![WhatsApp](https://img.shields.io/badge/Whats_App-%230CC143)](https://wa.me/923201051955)
 [![Gmail](https://img.shields.io/badge/Gmail-red)](https://mail.google.com/mail/?view=cm&to=waleedasif900@gmail.com)
 
-## Visit My Websit
+### Visit My Website 
 [![Portfolio](https://img.shields.io/badge/Waleed-%23E3DFDC)](https://waleed-jade.vercel.app/)
+
+### Tech Stacks
+#### Frontend  
+- Reactjs, Nextjs
+- Bootstrap, Tailwind CSS
+- Redux, Redux Toolkit, Redux Saga
+- UI component liberaries (Shdcn, Ant Design etc.)  
+
+#### Backend
+- Nodejs, Expressjs, MongoDB
+- Multer, Cloudinary, Bcrypt
+- JWT
