@@ -7,5 +7,5 @@ I am driven by the desire to create impactful solutions and deliver satisfaction
 Let’s connect and build something extraordinary! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
-[![WhatsApp](https://img.shields.io/badge/Whats_App-0A66C2)](https://wa.me/923201051955)
+[![WhatsApp](https://img.shields.io/badge/Whats_App-%230A66C2)](https://wa.me/923201051955)
 
