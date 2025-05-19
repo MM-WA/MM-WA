@@ -40,4 +40,4 @@ Let’s connect and build something extraordinary! 🤝
 
 #### Infrastructure
 - ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-%235C5C5C)
-- ![Vercel](https://img.shields.io/badge/Git/Vercel-%235C5C5C)
+- ![Vercel](https://img.shields.io/badge/Vercel-%235C5C5C)
