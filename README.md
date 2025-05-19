@@ -26,6 +26,8 @@ Let’s connect and build something extraordinary! 🤝
 - UI component liberaries (Shdcn, Ant Design etc.)  
 
 #### Backend
-- Nodejs, Expressjs, MongoDB
+- ![Nodejs](https://img.shields.io/badge/nodejs-%2376AB69)
+![Expressjs](https://img.shields.io/badge/Expressjs) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%23086D50)
 - Multer, Cloudinary, Bcrypt
 - JWT
