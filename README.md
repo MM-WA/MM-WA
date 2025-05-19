@@ -16,7 +16,7 @@ Let’s connect and build something extraordinary! 🤝
 ### Tech Stacks
 #### Frontend  
 - ![Reactjs](https://img.shields.io/badge/Reactjs-%2340E3FF)
-![Nextjs](https://img.shields.io/badge/Nextjs-%23D3D3D3)
+![Nextjs](https://img.shields.io/badge/Nextjs-%235C5C5C)
 
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237E18F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231DC0CD) 
@@ -29,12 +29,12 @@ Let’s connect and build something extraordinary! 🤝
 
 #### Backend
 - ![Nodejs](https://img.shields.io/badge/nodejs-%2376AB69)
-![Expressjs](https://img.shields.io/badge/Expressjs-%23D3D3D3) 
+![Expressjs](https://img.shields.io/badge/Expressjs-%235C5C5C) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23086D50)
 
-- ![Multer](https://img.shields.io/badge/Multer-%23D3D3D3)
+- ![Multer](https://img.shields.io/badge/Multer-%235C5C5C)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233A4EC7) 
-![Bcrypt](https://img.shields.io/badge/Bcrypt-%23D3D3D3)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-%235C5C5C)
 
 - ![JWT](https://img.shields.io/badge/JWT-%23F10C5B)
 
