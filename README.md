@@ -27,7 +27,7 @@ Let’s connect and build something extraordinary! 🤝
 
 #### Backend
 - ![Nodejs](https://img.shields.io/badge/nodejs-%2376AB69)
-![Expressjs](https://img.shields.io/badge/Expressjs) 
+![Expressjs](https://img.shields.io/badge/) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23086D50)
 - Multer, Cloudinary, Bcrypt
 - JWT
