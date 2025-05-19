@@ -36,4 +36,4 @@ Let’s connect and build something extraordinary! 🤝
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233A4EC7) 
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-%23D3D3D3)
 
-- JWT
+- ![JWT](https://img.shields.io/badge/JWT-%23F10C5B)
