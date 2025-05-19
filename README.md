@@ -17,7 +17,8 @@ Let’s connect and build something extraordinary! 🤝
 #### Frontend  
 - ![Reactjs](https://img.shields.io/badge/Reactjs-%2340E3FF)
 ![Nextjs](https://img.shields.io/badge/Nextjs-%23FFFFFF)
-- Bootstrap, Tailwind CSS
+- ![Bootstrap](https://img.shields.io/badge/Nextjs-%237E18F8)
+![Tailwind CSS](https://img.shields.io/badge/Nextjs-%231DC0CD) 
 - Redux, Redux Toolkit, Redux Saga
 - UI component liberaries (Shdcn, Ant Design etc.)  
 
