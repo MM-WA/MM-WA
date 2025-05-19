@@ -6,5 +6,9 @@ I am driven by the desire to create impactful solutions and deliver satisfaction
 
 Let’s connect and build something extraordinary! 🤝  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/)
+<a href="https://www.linkedin.com/in/mian-muhammad-waleed-asif-82083a240/" target="_blank">
+  <button style="background-color:#0077B5; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
+    LinkedIn
+  </button>
+</a>
 
