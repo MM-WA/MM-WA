@@ -16,7 +16,7 @@ Let’s connect and build something extraordinary! 🤝
 ### Tech Stacks
 #### Frontend  
 - ![Reactjs](https://img.shields.io/badge/Reactjs-%2340E3FF)
-![Nextjs](https://img.shields.io/badge/Nextjs-%23FFFFFF)
+![Nextjs](https://img.shields.io/badge/Nextjs-%23D3D3D3)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237E18F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231DC0CD) 
 - ![Redux](https://img.shields.io/badge/Redux-%237E18F8)
