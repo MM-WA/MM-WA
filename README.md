@@ -32,7 +32,7 @@ Let’s connect and build something extraordinary! 🤝
 ![Expressjs](https://img.shields.io/badge/Expressjs-%23D3D3D3) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23086D50)
 
-- ![Multer](https://img.shields.io/badge/Multer)
+- ![Multer](https://img.shields.io/badge/)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233A4EC7) 
 ![Bcrypt](https://img.shields.io/badge/Bcrypt)
 
