@@ -17,8 +17,10 @@ Let’s connect and build something extraordinary! 🤝
 #### Frontend  
 - ![Reactjs](https://img.shields.io/badge/Reactjs-%2340E3FF)
 ![Nextjs](https://img.shields.io/badge/Nextjs-%23D3D3D3)
+
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237E18F8)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231DC0CD) 
+
 - ![Redux](https://img.shields.io/badge/Redux-%237E18F8)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%231DC0CD) 
 ![Redux Saga](https://img.shields.io/badge/Redux_Saga-%238DDA72) 
@@ -29,5 +31,9 @@ Let’s connect and build something extraordinary! 🤝
 - ![Nodejs](https://img.shields.io/badge/nodejs-%2376AB69)
 ![Expressjs](https://img.shields.io/badge/Expressjs-%23D3D3D3) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23086D50)
-- Multer, Cloudinary, Bcrypt
+
+- ![Multer](https://img.shields.io/badge/Multer)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233A4EC7) 
+![Bcrypt](https://img.shields.io/badge/Bcrypt)
+
 - JWT
