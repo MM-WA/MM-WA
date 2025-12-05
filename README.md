@@ -26,7 +26,9 @@ I am driven by the desire to create impactful solutions and deliver satisfaction
 #### Backend
 - ![Nodejs](https://img.shields.io/badge/nodejs-%2376AB69)
 ![Expressjs](https://img.shields.io/badge/Expressjs-%235C5C5C) 
+![Nestjs](https://img.shields.io/badge/Nestjs-%235C5C5C) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23086D50)
+![Postgres](https://img.shields.io/badge/Postgres-%23F10C5B)
 
 - ![Multer](https://img.shields.io/badge/Multer-%235C5C5C)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233A4EC7) 
@@ -37,5 +39,6 @@ I am driven by the desire to create impactful solutions and deliver satisfaction
 
 #### Infrastructure
 - ![Git/GitHub](https://img.shields.io/badge/Git/GitHub-%235C5C5C)
+- ![Bitbucket](https://img.shields.io/badge/Git/Bitbucket-%235C5C5C)
 - ![Vercel](https://img.shields.io/badge/Vercel-%235C5C5C)
 - ![Railway](https://img.shields.io/badge/Railway-%235C5C5C)
